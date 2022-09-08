@@ -1,0 +1,9 @@
+artifacts
+node_modules
+cache
+package-lock.json
+package.json
+
+# Hard Hat
+README_HARDHAT.md
+hardhat.config.js
